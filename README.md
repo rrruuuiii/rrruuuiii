@@ -1,4 +1,10 @@
-### Hi there 👋
+            _ _       
+  /\  /\___| | | ___  
+ / /_/ / _ \ | |/ _ \ 
+/ __  /  __/ | | (_) |
+\/ /_/ \___|_|_|\___/ 
+                      
+
 
 <!--
 **rrruuuiii/rrruuuiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    
