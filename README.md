@@ -2,4 +2,4 @@ Hello! I'm Rui, a Computer Science major at Carnegie Mellon University, graduati
 
 I have a deep interest in interactive theorem proving and theoretical computer science, and I'm keen on expanding my knowledge of machine learning, especially its applications in computer graphics.
 
-Currently, I'm seeking summer 2024 internship opportunities where I can leverage and enhance my skills.
+Currently, I'm seeking summer 2024 internship opportunities.
